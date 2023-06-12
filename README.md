@@ -7,8 +7,9 @@ A crawler script with python and user interface about showing the information of
 陳敬霖主要負責：爬蟲部分程式  
 李O昇 主要負責：GUI部分程式  
 
-暫不開放二次創作，若有需要，請來函詢問。  
-若對此專案有所指教，也歡迎您來函討論，謝謝。  
+[示範影片](https://drive.google.com/file/d/1kx7hYCym9OOMR8O3ko5gd-g_m31eZsLv/view?usp=drive_link)
+
+若對此專案有任何指教，歡迎您來函討論，謝謝。  
 聯絡信箱：james156489723@yahoo.com  
 
 發想：  
