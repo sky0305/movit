@@ -1,10 +1,11 @@
 # movit
 A crawler script with python and user interface about showing the information of chosen movie in two VIESHOW theaters in Hsinchu.
 
-此專案由 清華大學 三位22級學生 陳敬霖、李O昇、楊O濬 共同創作。 
-楊O濬 主要負責：提案發想
-陳敬霖主要負責：爬蟲部分程式
-李O昇 主要負責：GUI部分程式
+此專案由 清華大學 三位22級學生 陳敬霖、李O昇、楊O濬 共同創作。  
+
+楊O濬 主要負責：提案發想  
+陳敬霖主要負責：爬蟲部分程式  
+李O昇 主要負責：GUI部分程式  
 
 暫不開放二次創作，若有需要，請來函詢問。
 若對此專案有所指教，也歡迎您來函討論，謝謝。
