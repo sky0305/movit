@@ -15,3 +15,7 @@ A crawler script with python and user interface about showing the information of
 發想：  
 在清大附近有兩間威秀影城，清大的學生們若想看電影，必須得兩座影城的資訊都查，查完一座的資訊卻又忘記另一座的，  
 若我們能直接查看在所選日期，兩座影城有上映所選電影的時段，那也許會方便許多，所以生出了這個小專案。
+
+備註：  
+- 如果欲觀看之電影有中/英文配音可選，請選用movit(crawler part).exe，不過目前僅預設顯示中文配音的搜尋結果，且為數位版本。  
+- movit.exe僅適用於沒有中/英文配音可選的電影，且為數位版本。
