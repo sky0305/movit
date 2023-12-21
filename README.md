@@ -1,5 +1,5 @@
 # MOVIT
-A crawler script with python and user interface about showing the information of chosen movie in two VIESHOW theaters in Hsinchu.  
+A crawler script with python and user interface about showing the time information of chosen movie in two VIESHOW theaters in Hsinchu.  
 
 此專案由 清華大學 三位22級學生 陳敬霖、李O昇、楊O濬 共同創作。  
 
